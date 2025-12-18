@@ -1,0 +1,14 @@
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_25\Problema_25\bin\Debug\net8.0\Problema_25.exe
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_25\Problema_25\bin\Debug\net8.0\Problema_25.deps.json
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_25\Problema_25\bin\Debug\net8.0\Problema_25.runtimeconfig.json
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_25\Problema_25\bin\Debug\net8.0\Problema_25.dll
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_25\Problema_25\bin\Debug\net8.0\Problema_25.pdb
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_25\Problema_25\obj\Debug\net8.0\Problema_25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_25\Problema_25\obj\Debug\net8.0\Problema_25.AssemblyInfoInputs.cache
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_25\Problema_25\obj\Debug\net8.0\Problema_25.AssemblyInfo.cs
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_25\Problema_25\obj\Debug\net8.0\Problema_25.csproj.CoreCompileInputs.cache
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_25\Problema_25\obj\Debug\net8.0\Problema_25.dll
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_25\Problema_25\obj\Debug\net8.0\refint\Problema_25.dll
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_25\Problema_25\obj\Debug\net8.0\Problema_25.pdb
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_25\Problema_25\obj\Debug\net8.0\Problema_25.genruntimeconfig.cache
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_25\Problema_25\obj\Debug\net8.0\ref\Problema_25.dll
