@@ -1,0 +1,14 @@
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_27\Problema_27\bin\Debug\net8.0\Problema_27.exe
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_27\Problema_27\bin\Debug\net8.0\Problema_27.deps.json
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_27\Problema_27\bin\Debug\net8.0\Problema_27.runtimeconfig.json
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_27\Problema_27\bin\Debug\net8.0\Problema_27.dll
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_27\Problema_27\bin\Debug\net8.0\Problema_27.pdb
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_27\Problema_27\obj\Debug\net8.0\Problema_27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_27\Problema_27\obj\Debug\net8.0\Problema_27.AssemblyInfoInputs.cache
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_27\Problema_27\obj\Debug\net8.0\Problema_27.AssemblyInfo.cs
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_27\Problema_27\obj\Debug\net8.0\Problema_27.csproj.CoreCompileInputs.cache
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_27\Problema_27\obj\Debug\net8.0\Problema_27.dll
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_27\Problema_27\obj\Debug\net8.0\refint\Problema_27.dll
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_27\Problema_27\obj\Debug\net8.0\Problema_27.pdb
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_27\Problema_27\obj\Debug\net8.0\Problema_27.genruntimeconfig.cache
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_27\Problema_27\obj\Debug\net8.0\ref\Problema_27.dll
