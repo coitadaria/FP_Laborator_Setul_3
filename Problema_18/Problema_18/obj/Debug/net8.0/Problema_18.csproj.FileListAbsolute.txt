@@ -1,0 +1,14 @@
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_18\Problema_18\bin\Debug\net8.0\Problema_18.exe
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_18\Problema_18\bin\Debug\net8.0\Problema_18.deps.json
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_18\Problema_18\bin\Debug\net8.0\Problema_18.runtimeconfig.json
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_18\Problema_18\bin\Debug\net8.0\Problema_18.dll
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_18\Problema_18\bin\Debug\net8.0\Problema_18.pdb
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_18\Problema_18\obj\Debug\net8.0\Problema_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_18\Problema_18\obj\Debug\net8.0\Problema_18.AssemblyInfoInputs.cache
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_18\Problema_18\obj\Debug\net8.0\Problema_18.AssemblyInfo.cs
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_18\Problema_18\obj\Debug\net8.0\Problema_18.csproj.CoreCompileInputs.cache
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_18\Problema_18\obj\Debug\net8.0\Problema_18.dll
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_18\Problema_18\obj\Debug\net8.0\refint\Problema_18.dll
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_18\Problema_18\obj\Debug\net8.0\Problema_18.pdb
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_18\Problema_18\obj\Debug\net8.0\Problema_18.genruntimeconfig.cache
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_18\Problema_18\obj\Debug\net8.0\ref\Problema_18.dll
