@@ -1,0 +1,14 @@
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_22\Problema_22\obj\Debug\net8.0\Problema_22.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_22\Problema_22\obj\Debug\net8.0\Problema_22.AssemblyInfoInputs.cache
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_22\Problema_22\obj\Debug\net8.0\Problema_22.AssemblyInfo.cs
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_22\Problema_22\obj\Debug\net8.0\Problema_22.csproj.CoreCompileInputs.cache
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_22\Problema_22\bin\Debug\net8.0\Problema_22.exe
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_22\Problema_22\bin\Debug\net8.0\Problema_22.deps.json
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_22\Problema_22\bin\Debug\net8.0\Problema_22.runtimeconfig.json
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_22\Problema_22\bin\Debug\net8.0\Problema_22.dll
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_22\Problema_22\bin\Debug\net8.0\Problema_22.pdb
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_22\Problema_22\obj\Debug\net8.0\Problema_22.dll
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_22\Problema_22\obj\Debug\net8.0\refint\Problema_22.dll
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_22\Problema_22\obj\Debug\net8.0\Problema_22.pdb
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_22\Problema_22\obj\Debug\net8.0\Problema_22.genruntimeconfig.cache
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_22\Problema_22\obj\Debug\net8.0\ref\Problema_22.dll
