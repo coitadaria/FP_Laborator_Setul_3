@@ -1,0 +1,14 @@
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_19\Problema_19\bin\Debug\net8.0\Problema_19.exe
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_19\Problema_19\bin\Debug\net8.0\Problema_19.deps.json
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_19\Problema_19\bin\Debug\net8.0\Problema_19.runtimeconfig.json
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_19\Problema_19\bin\Debug\net8.0\Problema_19.dll
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_19\Problema_19\bin\Debug\net8.0\Problema_19.pdb
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_19\Problema_19\obj\Debug\net8.0\Problema_19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_19\Problema_19\obj\Debug\net8.0\Problema_19.AssemblyInfoInputs.cache
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_19\Problema_19\obj\Debug\net8.0\Problema_19.AssemblyInfo.cs
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_19\Problema_19\obj\Debug\net8.0\Problema_19.csproj.CoreCompileInputs.cache
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_19\Problema_19\obj\Debug\net8.0\Problema_19.dll
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_19\Problema_19\obj\Debug\net8.0\refint\Problema_19.dll
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_19\Problema_19\obj\Debug\net8.0\Problema_19.pdb
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_19\Problema_19\obj\Debug\net8.0\Problema_19.genruntimeconfig.cache
+C:\Users\Daria\OneDrive - Colegiul National Emanuil Gojdu\Desktop\FP\Setul 3\Problema_19\Problema_19\obj\Debug\net8.0\ref\Problema_19.dll
